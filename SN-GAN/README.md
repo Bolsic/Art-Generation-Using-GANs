@@ -1,0 +1,1 @@
+The SN-GAN model was not finished because of a lack of time.
